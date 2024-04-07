@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.spring-works</groupId>
-    <artifactId>spring-works</artifactId>
+    <artifactId>spring-works-tv-shows-project</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springworks</name>
     <description>springworks</description>
